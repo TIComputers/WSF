@@ -6,4 +6,3 @@ and short scripts, including for those in the field of cybersecurity. A program 
 and one of the updates needed is opening the file for editing.
 
 Display optoins: wsf --help
-
