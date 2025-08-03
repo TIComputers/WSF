@@ -23,23 +23,6 @@ def point(arg:str, time:int) -> None:
 def __help__() -> None:
     point("", 1)
     cl()
-#     help = fr'''{Fore.RED}
-#  |  <>  |
-#  |!    !|
-#   \\  //
-#     \/
-# {Fore.YELLOW}
-# -h    Display All Tools
-# -u    Updata Program
-# -a    Assmble File 
-# -t    Select Type File
-# -w    Write Scritpt File
-# -s    Save File Path
-# -n    Name file 
-# {Fore.RESET}
-# '''
-#     print(help)
-    
     a = Fore.RED + f'''
     
     
@@ -69,3 +52,4 @@ def __help__() -> None:
     
 
     
+
